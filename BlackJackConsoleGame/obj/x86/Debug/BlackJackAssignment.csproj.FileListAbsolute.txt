@@ -1,0 +1,15 @@
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\BlackJackAssignment\BlackJackAssignment\bin\Debug\BlackJackAssignment.exe
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\BlackJackAssignment\BlackJackAssignment\bin\Debug\BlackJackAssignment.pdb
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\BlackJackAssignment\BlackJackAssignment\obj\x86\Debug\BlackJackAssignment.exe
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\BlackJackAssignment\BlackJackAssignment\obj\x86\Debug\BlackJackAssignment.pdb
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\BlackJackAssignment\BlackJackAssignment\obj\x86\Debug\BlackJackAssignment.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\Semester1\BlackJackAssignment\BlackJackAssignment\obj\x86\Debug\BlackJackAssignment.exe
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\Semester1\BlackJackAssignment\BlackJackAssignment\obj\x86\Debug\BlackJackAssignment.pdb
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\Semester1\BlackJackAssignment\BlackJackAssignment\bin\Debug\BlackJackAssignment.exe
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\Semester1\BlackJackAssignment\BlackJackAssignment\bin\Debug\BlackJackAssignment.pdb
+C:\Users\User\Dropbox\Bryony_Burniston_s00150642_Programming\Semester1\BlackJackAssignment\BlackJackAssignment\obj\x86\Debug\BlackJackAssignment.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\ProgrammingProjects\Sligo\BlackJackAssignment\BlackJackAssignment\obj\x86\Debug\BlackJackAssignment.exe
+C:\Users\User\Dropbox\ProgrammingProjects\Sligo\BlackJackAssignment\BlackJackAssignment\obj\x86\Debug\BlackJackAssignment.pdb
+C:\Users\User\Dropbox\ProgrammingProjects\Sligo\BlackJackAssignment\BlackJackAssignment\bin\Debug\BlackJackAssignment.exe
+C:\Users\User\Dropbox\ProgrammingProjects\Sligo\BlackJackAssignment\BlackJackAssignment\bin\Debug\BlackJackAssignment.pdb
+C:\Users\User\Dropbox\ProgrammingProjects\Sligo\BlackJackAssignment\BlackJackAssignment\obj\x86\Debug\BlackJackAssignment.csprojResolveAssemblyReference.cache

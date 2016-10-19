@@ -1,0 +1,2 @@
+C:\Users\User\Dropbox\ProgrammingProjects\Sligo\BlackJackConsoleGame\BlackJackConsoleGame\obj\x86\Debug\BlackJackAssignment.exe
+C:\Users\User\Dropbox\ProgrammingProjects\Sligo\BlackJackConsoleGame\BlackJackConsoleGame\obj\x86\Debug\BlackJackAssignment.pdb
